@@ -37,8 +37,8 @@ The project utilizes synthetic data for demonstration purposes, representing a s
 - **Deductions & Net Salary**
 
 <p align="center">
-  <img src="im1.png"  width="650" height="400" />
-  <img src="im2.png" width="650" height="400" />
+  <img src="im1.png"  width="650" height="500" />
+  <img src="im2.png" width="650" height="500" />
 </p>
 
 ## Conclusion
