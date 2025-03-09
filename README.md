@@ -38,8 +38,8 @@ The project utilizes synthetic data for demonstration purposes, representing a s
 
 ```html
 <p align="center">
-  <img src="image1.png" width="45%" />
-  <img src="image2.png" width="45%" />
+  <img src="image 1.png" width="45%" />
+  <img src="image 2.png.png" width="45%" />
 </p>
 ```
 
