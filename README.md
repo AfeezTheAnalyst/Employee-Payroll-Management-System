@@ -17,9 +17,9 @@ The **Employee Payroll Management System** is a structured Excel-based payroll s
 ## Formulas & Functions Used
 
 ```excel
-=SUM(B2:B10)       // Calculates total earnings and deductions
-=AVERAGE(C2:C10)   // Determines the average pay across employees
-=IF(D2>40, D2-40, 0) // Determines overtime hours worked
+=SUM(AC4:AG4)       // Calculates total earnings and deductions
+=AVERAGE(C4:C20)   // Determines the average pay across employees
+=IF(E4>40, E4-40, 0) // Determines overtime hours worked
 =OR(E2>5000, F2<3000) // Applies conditional logic for payroll decisions
 =MIN(G2:G10)       // Identifies the lowest salary
 =MAX(G2:G10)       // Identifies the highest salary
@@ -36,6 +36,15 @@ The project utilizes synthetic data for demonstration purposes, representing a s
 - **Total Earnings**
 - **Deductions & Net Salary**
 
+```html
+<p align="center">
+  <img src="image1.png" width="45%" />
+  <img src="image2.png" width="45%" />
+</p>
+```
+
 ## Conclusion
 
 This payroll system showcases my proficiency in Microsoft Excel, my ability to design automated financial solutions, and my skills in data analysis and visualization. The project reflects a strong foundation in business operations, payroll management, and process optimization through advanced Excel techniques.
+
+
